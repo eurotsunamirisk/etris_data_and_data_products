@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <nrml xmlns="http://openquake.org/xmlns/nrml/0.5">
 	<fragilityModel id="Reese_et_al_2011" assetCategory="buildings" lossCategory="structural">
-		<description>De Risi et al. 2017 Table 2 https://doi.org/10.1007/s00477-016-1230-x</description>
+		<description>De Risi et al. 2017a Table 3 https://doi.org/10.1007/s00477-016-1230-x</description>
 		<limitStates>DS2_Minor DS3_Moderate DS4_Major DS5_Complete DS6_Collapse_DS7_Wash_Away</limitStates>
 		<fragilityFunction id="W" format="continuous" shape="logncdf">
 			<imls imt="d_tsi" noDamageLimit="0.00" minIML="0.0" maxIML="10.0"/>
-			<params ls="DS2_Minor" mean="0.04" stddev="1.49"/>
-			<params ls="DS3_Moderate" mean="0.29" stddev="1.00"/>
-			<params ls="DS4_Major" mean="0.82" stddev="0.81"/>
-			<params ls="DS5_Complete" mean="1.68" stddev="0.66"/>
-			<params ls="DS6_Collapse_DS7_Wash_Away" mean="1.90" stddev="0.73"/>
+			<params ls="DS2_Minor" mean="0.04" stddev="1.23"/>
+			<params ls="DS3_Moderate" mean="0.28" stddev="0.99"/>
+			<params ls="DS4_Major" mean="0.99" stddev="0.65"/>
+			<params ls="DS5_Complete" mean="1.96" stddev="0.43"/>
+			<params ls="DS6_Collapse_DS7_Wash_Away" mean="2.12" stddev="0.47"/>
 		</fragilityFunction>
 	</fragilityModel>
 </nrml>

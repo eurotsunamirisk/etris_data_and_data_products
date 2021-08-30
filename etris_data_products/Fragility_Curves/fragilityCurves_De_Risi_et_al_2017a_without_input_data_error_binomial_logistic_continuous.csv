@@ -1,0 +1,6 @@
+Reference,DOI,Type of structure,Format,Intensity Measure,Shape,Damage state,mean,stddev
+De Risi et al. 2017a,https://doi.org/10.1007/s00477-016-1230-x ,W,continuous,d_tsi,logncdf,DS2_Minor,0.04,1.23
+De Risi et al. 2017a,https://doi.org/10.1007/s00477-016-1230-x ,W,continuous,d_tsi,logncdf,DS3_Moderate,0.29,1.02
+De Risi et al. 2017a,https://doi.org/10.1007/s00477-016-1230-x ,W,continuous,d_tsi,logncdf,DS4_Major,0.99,0.68
+De Risi et al. 2017a,https://doi.org/10.1007/s00477-016-1230-x ,W,continuous,d_tsi,logncdf,DS5_Complete,1.97,0.47
+De Risi et al. 2017a,https://doi.org/10.1007/s00477-016-1230-x ,W,continuous,d_tsi,logncdf,DS6_Collapse_DS7_Wash_Away,2.13,0.52

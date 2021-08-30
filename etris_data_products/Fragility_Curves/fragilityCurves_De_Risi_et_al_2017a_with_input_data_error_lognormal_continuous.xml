@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <nrml xmlns="http://openquake.org/xmlns/nrml/0.5">
 	<fragilityModel id="Reese_et_al_2011" assetCategory="buildings" lossCategory="structural">
-		<description>De Risi et al. 2017 Table 2 https://doi.org/10.1007/s00477-016-1230-x</description>
+		<description>De Risi et al. 2017a Table 2 https://doi.org/10.1007/s00477-016-1230-x</description>
 		<limitStates>DS2_Minor DS3_Moderate DS4_Major DS5_Complete DS6_Collapse_DS7_Wash_Away</limitStates>
 		<fragilityFunction id="W" format="continuous" shape="logncdf">
 			<imls imt="d_tsi" noDamageLimit="0.00" minIML="0.0" maxIML="10.0"/>
