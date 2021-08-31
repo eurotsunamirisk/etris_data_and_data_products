@@ -4,9 +4,8 @@ De Risi et al. 2017b,http://dx.doi.org/10.1016/j.earscirev.2016.12.015 ,W_M99_S_
 De Risi et al. 2017b,http://dx.doi.org/10.1016/j.earscirev.2016.12.015 ,W_M99_S_CR,continuous,d_tsi,generalized linear model,DS4_Major,-0.823,2.079,0.638,0.28,0.207,-0.362,0.203,0.261
 De Risi et al. 2017b,http://dx.doi.org/10.1016/j.earscirev.2016.12.015 ,W_M99_S_CR,continuous,d_tsi,generalized linear model,DS5_Complete,-3.109,2.666,-2.517,-2.231,-0.532,1.032,1.654,1.061
 De Risi et al. 2017b,http://dx.doi.org/10.1016/j.earscirev.2016.12.015 ,W_M99_S_CR,continuous,d_tsi,generalized linear model,DS6_Collapse_DS7_Wash_Away,-3.251,1.716,0.307,-0.177,0.562,2.281,1.418,0.499
-Functional form in Python
-np.log10( P[j-1]/(1-sum(P[:j])) ) = theta_0 + theta_1*np.log10(d_tsi) + theta_2*d_W + theta_3*d_M + theta_4*d_S + theta_4*np.log10(d_tsi)*d_W + theta_6*np.log10(d_tsi)*d_M + theta_7*np.log10(d_tsi)*d_S
-P[j-1] is the probability that the i-th observation is in the j-th damage state; j=1-...
-d_tsi is the inundation depth
-The variables d_W d_M and d_S are equal to 1.0 when the ith observation is for wooden masonry or steel structures respectively. They are equal to 0.0 in any other case.
-
+Functional form in Python,,,,,,,,,,,,,,
+np.log10( P[j-1]/(1-sum(P[:j])) ) = theta_0 + theta_1*np.log10(d_tsi) + theta_2*d_W + theta_3*d_M + theta_4*d_S + theta_4*np.log10(d_tsi)*d_W + theta_6*np.log10(d_tsi)*d_M + theta_7*np.log10(d_tsi)*d_S,,,,,,,,,,,,,,
+P[j-1] is the probability that the i-th observation is in the j-th damage state; j=1-...,,,,,,,,,,,,,,
+d_tsi is the inundation depth,,,,,,,,,,,,,,
+The variables d_W d_M and d_S are equal to 1.0 when the ith observation is for wooden masonry or steel structures respectively. They are equal to 0.0 in any other case.,,,,,,,,,,,,,,
