@@ -6,6 +6,6 @@ De Risi et al. 2017b,http://dx.doi.org/10.1016/j.earscirev.2016.12.015 ,W_M99_S_
 De Risi et al. 2017b,http://dx.doi.org/10.1016/j.earscirev.2016.12.015 ,W_M99_S_CR,continuous,d_tsi,generalized linear model,DS6_Collapse_and_DS7_Wash_Away,-3.251,1.716,0.307,-0.177,0.562,2.281,1.418,0.499
 Functional form in Python,,,,,,,,,,,,,,
 f = theta_0 + theta_1*numpy.log(d_tsi) + theta_2*d_W + theta_3*d_M + theta_4*d_S + theta_4*numpy.log(d_tsi)*d_W + theta_6*numpy.log(d_tsi)*d_M + theta_7*numpy.log(d_tsi)*d_S,,,,,,,,,,,,,,
-f gives the value of the logit functionj,,,,,,,,,,,,,,
+f gives the value of the logit function,,,,,,,,,,,,,,
 d_tsi is the inundation depth,,,,,,,,,,,,,,
 The variables d_W d_M and d_S are equal to 1.0 when the ith observation is for wooden masonry or steel structures respectively. They are equal to 0.0 in any other case.,,,,,,,,,,,,,,
