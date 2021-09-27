@@ -6,20 +6,20 @@ Place,Damage,Number of Fatalities,Fatalities (%),Population in 1755 (older than 
 5-Viera,-,0,0,-,622,-,
 6-Peniche,Destroyed the rampart_ houses and vessels,>50,>1.1,-,-,4673,Commas replaced with underscores in the Damage field
 7-A-dos-Cunhados,Destroyed the Penafirme convent,0,0,-,575,650,
-8-Ericeira,Boats were washed away,0,0,-,-,1255
+8-Ericeira,Boats were washed away,0,0,-,-,1255,
 9-Cascais,More than 50 fishery vessels and boats were destroyed. Almost all buildings collapsed,>624-664,>24.9-26.7,-,2484-2505,2592,damage/fatalities due to earthquake and tsunami
 10-Carnaxide,Destruction of Cruz Quebrada bridge,1,0.05,-,-,1944,
-11-Bugio light house,Debris washed away,People dragged away,-,-,-,Fatalities (%) is unknown data
+11-Bugio light house,Debris washed away,People dragged away,-,-,-,Fatalities (%) is unknown data,
 12-Lisbon,Destruction of many buildings,10000,6.4-9.1,109754-157192,50808,156254,damage/fatalities due to earthquake fire and tsunami | includes fatalities during the month of November
 13-Benavente,-,0,0,-,2208,-,
-14-Seixal,-,Many,-,-,1018,damage/fatalities due to earthquake and tsunami | Fatalities (%) is unknown data
+14-Seixal,-,Many,-,-,1018,damage/fatalities due to earthquake and tsunami | Fatalities (%) is unknown data,
 15-Almada,-,>26,>1.0,-,-,3867,damage/fatalities due to earthquake and tsunami
 16-Caparica,-,5,0.3,-,-,1484,
 17-Sesimbra,Destroyed the vessels,0,0,-,-,1534,
 18-Setubal,Destruction of the rampart_ many vessels and buildings,>2000,>16.9,-,-,11842,Commas replaced with underscores in the Damage field | damage due to earthquake fire and tsunami
 19-Vila Nova de Mil,Fontes Destroyed 3 beach houses,0,0,-,-,364,
 20-Odemira,-,0,0,-,-,1140,
-21-Odeceixe,-,0 0,-,-,320,
+21-Odeceixe,-,0 0,-,-,320,,
 22-Aljezur,Destroyed the fortress,0,0,-,-,1044,
 23-Sagres,Destroyed the vineyards,0,0,-,-,198,
 24-Budens,Destroyed the Almadena fishing net_ with 50 heavy anchors,0,0,-,-,344,Commas replaced with underscores in the Damage field
