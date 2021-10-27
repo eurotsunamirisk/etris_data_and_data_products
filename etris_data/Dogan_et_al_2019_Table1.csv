@@ -1,0 +1,26 @@
+﻿Point_#,Survey_#,Place,Region,Latitude(N),Longitude(E),Tsunami_runup(m)
+1,1,Turgutreis D-Marin,Turgutreis,37.0016,27.2575,NMWO (no major wave oscillation)
+2,1,Olivia Restaurant,Fener Beach (Akyarlar),36.9648,27.2646,NMWO (no major wave oscillation)
+3,1,Kilavuz Motel,Beach Akyarlar Bay,36.9674,27.2909,1.2
+4,1,Balmahmut's Place,Karaincir,36.973,27.3005,1.4
+5,1,Aspat Beach,Aspat Bay,36.9796,27.3124,1
+6,1,Camel Beach,Kargi Bay,37.0136,27.3306,0.5
+7,1,Bitez Beach,Bitez Bay,37.0256,27.3836,0.5
+8,1,Municipality Café (MC) and River Stream (RS),Gumbet Bay,37.0309,27.4053,1.9
+9,1,Bodrum Marina,Bodrum Center,37.0358,27.4248,1.0-1.2
+10,1,Yali Café,Yaliciftlik,36.9928,27.5279,NMWO (no major wave oscillation)
+11,2,Turgut Reis,Fishery Harbor (Turgutreis),37.006,27.2564,0.6
+12,2,Small Beach Hotel,Turgutreis,36.9821,27.2568,NMWO (no major wave oscillation)
+13,2,Meteor Beach,Dogu Beach,36.9662,27.2788,0.9
+14,2,Xanadu Island Hotel,Akyarlar Peninsula Tip,36.9607,27.2862,0.5
+15,2,La Brezza Beach,Western Karaincir Bay,36.9699,27.3002,1.6
+16,2,Meteor-2 Beach,Eastern Karaincir Bay,36.9735,27.3009,1.4
+17,2,Tek Sitesi,Eastern Karaincir Bay,36.9758,27.3041,0.8-1.0
+18,2,Bitez Mor Beach,Western Bitez Bay,37.0238,27.3724,
+19,2,Western Bitez Beach,Western Bitez Bay,37.0269,27.3729,0.9
+20,2,Eastern Bitez Beach,Eastern Bitez Bay,37.0248,27.3845,0.5
+21,2,Nagi Beach,Gumbet Bay,37.0315,27.4036,1.15
+22,2,Cesar Beach Hotel,Gumbet Bay,37.031,27.4074,
+23,2,Voyage Hotel Bodrum,Bodrum Marina Region,37.0275,27.417,1
+24,2,Kucukpoyraz,Karaada (Black Island),36.9663,27.4614,1.5-2.0
+25,3,Akyaka Beach and River Branch,Akyaka,37.0508,28.3244,0.6
