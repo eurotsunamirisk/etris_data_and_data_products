@@ -1,0 +1,124 @@
+﻿Locality,Point_ID,Latitude(deg.N),Longitude(deg.E),Measurement(m),Type,Inundation_distance(m),Notes
+Alaçatı,AL1,38.2556,26.3833,1.0,T tsunami height,,
+Alaçatı,AL2,38.2559,26.382,1.0,R runup,73,Alaçatı Fishery Port; inundation limit
+Alaçatı,AL3,38.253,26.3839,1.0,T tsunami height,,
+Alaçatı,AL4,38.2525,26.3849,1.2,T tsunami height,,
+Alaçatı,AL5,38.252,26.3844,0.9,R runup,73,Port Alaçatı inundation limit
+Alaçatı,AL6,38.2635,26.373,1.7,Other see the notes,,Water level increase in the manmade channel-like port; Port Alaçatı houses
+Alaçatı,AL7,38.2632,26.3765,1.7,Other see the notes,,Water level increase in the manmade channel-like port; Port Alaçatı houses
+Alaçatı,AL8,38.2657,26.3775,,,1160,A boat was dragged up to this point
+Alaçatı,AL9,38.2769,26.3927,,,2490,Maximum tsunami penetration among all surveyedlocations at Alaçatı Azmak stream
+Zeytineli,Z1,38.1973,26.493,0.6,R runup,270,Inundation limit
+Zeytineli,Z2,38.1964,26.4924,1.1,T tsunami height,,
+Zeytineli,Z3,38.1959,26.4901,1.9,T tsunami height,,
+Zeytineli,Z4,38.1959,26.4903,1.5,F flow depth,,
+Zeytineli,Z5,38.196,26.4886,1.9,F flow depth,,
+Zeytineli,Z6,38.1951,26.4919,2.4,T tsunami height,,
+Zeytineli,Z7,38.1948,26.492,2.3,T tsunami height,,
+Zeytineli,Z8,38.1974,26.4899,0.7,Other see the notes,,Zeytineli Azmak bridge; water overflowed the bridge at that elevation
+Zeytineli,Z9,38.2009,26.4933,0.6,R runup,710,
+Zeytineli,Z10,38.2014,26.4936,0.5,R runup,760,Inundation limit
+Demircili,D1,38.2116,26.6769,,,45,Beachside; only small inundation
+Demircili,D2,38.2075,26.6864,1.0,Other see the notes,,Approx. 1.00 m water level increase inside the harbor;  the seareceded to 1.80 m depth
+Demircili,D3,38.2104,26.6944,0.7,R runup,15,
+Altınköy,ALT1,38.2135,26.722,,,230,Inundation limit at the beachside
+Altınköy,ALT2,38.2155,26.7214,0.2,F flow depth,600,Tsunami penetration along the streambed
+Sığacık,S1,38.1912,26.7832,2.1,T tsunami height,,
+Sığacık,S2,38.1912,26.7844,1.5,T tsunami height,,
+Sığacık,S3,38.1911,26.7845,1.6,T tsunami height,,
+Sığacık,S4,38.1914,26.7851,1.5,T tsunami height,,
+Sığacık,S5,38.1928,26.7853,1.5,T tsunami height,,
+Sığacık,S6,38.1924,26.7862,1.0,T tsunami height,,
+Sığacık,S7,38.1941,26.7841,2.1,T tsunami height,,
+Sığacık,S8,38.1951,26.7853,2.2,T tsunami height,,
+Sığacık,S9,38.1955,26.7871,1.8,T tsunami height,,
+Sığacık,S10,38.1952,26.7872,0.7,T tsunami height,,
+Sığacık,S11,38.1961,26.7877,2.0,T tsunami height,,
+Sığacık,S12,38.1959,26.7885,,,140,A boat was dragged to this point from the shore
+Sığacık,S13,38.1958,26.7884,2.0,T tsunami height,,
+Sığacık,S14,38.1958,26.7901,1.6,R runup,,
+Sığacık,S15,38.1984,26.7907,2.0,T tsunami height,,
+Sığacık,S16,38.1981,26.7909,1.8,T tsunami height,,
+Sığacık,S17,38.1983,26.7918,2.0,T tsunami height,,
+Sığacık,S18,38.1986,26.793,1.4,R runup,360,
+Sığacık,S19,38.1992,26.7929,1.4,R runup,410,Maximum inundation in Sığacık
+Sığacık,S20,38.2012,26.7857,1.9,T tsunami height,,
+Sığacık,S21,38.2015,26.7856,1.9,R runup,,
+Sığacık,S22,38.1915,26.785,0.9,T tsunami height,,
+Sığacık,S23,38.1907,26.783,1.2,T tsunami height,,
+Sığacık,S24,38.1912,26.7847,1.4,T tsunami height,,
+Sığacık,S25,38.1912,26.7849,1.6,T tsunami height,,
+Sığacık,S26,38.1912,26.7857,1.0,T tsunami height,,
+Sığacık,S27,38.1918,26.7863,1.3,T tsunami height,,
+Sığacık,S28,38.1919,26.7867,1.3,R runup,,
+Sığacık,S29,38.1926,26.7864,1.4,R runup,,
+Sığacık,S30,38.191,26.7873,1.8,R runup,,
+Sığacık,S31,38.1935,26.7861,1.3,T tsunami height,,
+Sığacık,S32,38.194,26.7856,1.3,T tsunami height,,
+Sığacık,S33,38.1941,26.7853,1.4,T tsunami height,,
+Sığacık,S34,38.1942,26.7848,1.3,T tsunami height,,
+Sığacık,S35,38.1943,26.7847,1.4,T tsunami height,,
+Sığacık,S36,38.1951,26.7854,2.3,T tsunami height,,Maximum tsunami height among all surveyed locations
+Sığacık,S37,38.1954,26.7856,1.8,T tsunami height,,
+Sığacık,S38,38.1952,26.7862,1.9,T tsunami height,,
+Sığacık,S39,38.1956,26.7876,1.7,T tsunami height,,
+Sığacık,S40,38.1956,26.7881,1.2,T tsunami height,,
+Sığacık,S41,38.2039,26.7802,1.5,R runup,,
+Sığacık,S42,38.1916,26.7845,0.8,F flow depth,,
+Sığacık,S43,38.1918,26.7838,0.6,F flow depth,,
+Sığacık,S44,38.1956,26.7874,0.9,F flow depth,,
+Sığacık,S45,38.1956,26.7884,0.6,F flow depth,,
+Sığacık,S46,38.195,26.7866,0.4,F flow depth,,
+Sığacık,S47,38.1949,26.7861,0.4,F flow depth,,
+Sığacık,S48,38.2013,26.786,1.5,F flow depth,,
+Akarca,A1,38.1645,26.8148,1.9,Other see the notes,,Splash height; Ground elevation 0.89 m
+Akarca,A2,38.1644,26.815,2.5,T tsunami height,,
+Akarca,A3,38.1645,26.8152,,,55,A car was dragged to this point from the shore
+Akarca,A4,38.1645,26.8154,2.4,T tsunami height,,
+Akarca,A5,38.1651,26.8156,3.8,R runup,91,Maximum runup among all surveyed locations; inundation limit
+Akarca,A6,38.1659,26.8148,,,90,A boat was dragged to this point from the shore
+Akarca,A7,38.1682,26.8135,1.1,T tsunami height,,
+Akarca,A8,38.1683,26.8135,1.0,R runup,290,Inundation limit
+Akarca,A9,38.1667,26.8122,1.5,T tsunami height,,
+Akarca,A10,38.1668,26.8118,1.1,T tsunami height,,
+Akarca,A11,38.1665,26.8112,2.0,T tsunami height,,
+Akarca,A12,38.1665,26.8107,2.1,T tsunami height,,
+Akarca,A13,38.168,26.8079,1.2,R runup,80,
+Akarca,A14,38.1681,26.8112,0.9,R runup,250,Inundation limit
+Akarca,A15,38.1641,26.8149,0.5,F,40,
+Akarca,A16,38.1675,26.8092,1.5,T tsunami height,,
+Akarca,A17,38.16693,26.8092,1.6,T tsunami height,,
+Akarca,A18,38.1663,26.8092,2.0,T tsunami height,,
+Akarca,A19,38.1666,26.8092,1.8,T tsunami height,,
+Akarca,A20,38.1671,26.8091,1.9,T tsunami height,,
+Akarca,A21,38.1672,26.8093,2.3,T tsunami height,,
+Akarca,A22,38.1681,26.8092,1.2,R runup,,
+Akarca,A23,38.1656,26.8138,2.4,T tsunami height,,
+Akarca,A24,38.1657,26.8137,2.9,T tsunami height,,
+Akarca,A25,38.1667,26.8149,1.8,T tsunami height,,
+Akarca,A26,38.1669,26.8151,1.8,T tsunami height,,
+Akarca,A27,38.1673,26.8153,1.5,R runup,,
+Akarca,A28,38.1673,26.8154,1.6,R runup,,
+Akarca,A29,38.1671,26.8151,1.8,T tsunami height,,
+Akarca,A30,38.1711,26.8038,,,20,Inundation limit
+Akarca,A31,38.1647,26.8146,1.3,F flow depth,,
+Akarca,A32,38.1559,26.8251,0.8,F flow depth,,
+Akarca,A33,38.1665,26.811,0.6,F flow depth,,
+Akarca,A34,38.1664,26.812,0.8,F flow depth,,
+Akarca,A35,38.1681,26.8113,0.1,F flow depth,250,Inundation limit
+Akarca,A36,38.1615,26.8213,0.2,F flow depth,,
+Akarca,A37,38.1618,26.8212,,,100,
+Akarca,A38,38.1622,26.8215,,,150,Inundation limit
+Akarca,A39,38.1615,26.8204,,,45,
+Akarca,A40,38.1629,26.819,,,80,Inundation limit
+Tepecik,T1,38.1458,26.8201,,,12,Inundation limit; only sweeps
+Tepecik,T2,38.139,26.8306,,,20,Inundation limit on the beach; only sweeps
+Tepecik,T3,38.1395,26.8314,,,120,Tsunami penetration along a small stream; Orsal Bay
+Tepecik,T4,38.1356,26.8331,1.5,F flow depth,,
+Tepecik,T5,38.1114,26.8443,,,18,Inundation limit; eyewitness: 25 m sea recession
+Gümüldür,G1,38.0757,26.9493,,,23.0,Inundation limit in front of Rafael Boutique Hotel
+Gümüldür,G2,38.0757,26.95,,,15.0,Inundation limit; only sweeps
+Gümüldür,G3,38.0677,26.9953,,,,Minor damage on boats in harbor; no trace of water on objects
+Gümüldür,G4,38.0652,26.9988,0.5,F flow depth,,
+Gümüldür,G5,38.0652,26.9992,,,25.0,Inundation limit; sweeps on a walking road
+Gümüldür,G6,38.0577,27.0117,,,25.0,Inundation limit
