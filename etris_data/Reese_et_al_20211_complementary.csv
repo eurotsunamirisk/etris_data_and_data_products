@@ -1,7 +1,7 @@
 ﻿Damage Level,Label,Damage level description
 D_0,None,no damage
 D_1,Light,non-structural damage
-D_1,Minor,significant non-structural damage, minor structural damage
+D_1,Minor,significant non-structural damage; minor structural damage
 D_3,Moderate,significant structural and non-structural damage
-D_4,Severe,irreparable structural damage, will require demolition
+D_4,Severe,irreparable structural damage; will require demolition
 D_5,Collapse,complete structural collapse
