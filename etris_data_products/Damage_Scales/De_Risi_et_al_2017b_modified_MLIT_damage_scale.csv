@@ -1,0 +1,8 @@
+MLIT Damage State,Damage state,Classification of damage,Description of observed damage,Condition of the structure
+7,ds_0,No damage,No damage,Promptly reusable 
+6,ds_1,Minor,Flood only,Promptly reusable after floor cleaning
+5,ds_2,Moderate,No structural damage,Reusable after minor repair
+4,ds_3,Major,Partly damaged walls but no damage in columns,May be reusable after great repair
+3,ds_4,Complete,Extensive damage in walls; some damage in columns,May be reusable after great repair only in some cases
+2,ds_5,Collapse,More than half of walls were destroyed; most columns were bent or destroyed,Non-repairable
+1,ds_6&7,Washed away,Washed away; only foundation remained; overturned,Non-repairable

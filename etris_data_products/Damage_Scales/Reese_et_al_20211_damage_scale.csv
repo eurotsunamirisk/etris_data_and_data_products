@@ -1,4 +1,4 @@
-﻿Damage Level,Label,Damage level description
+﻿Grade,Label,Description
 D_0,None,no damage
 D_1,Light,non-structural damage
 D_1,Minor,significant non-structural damage; minor structural damage
