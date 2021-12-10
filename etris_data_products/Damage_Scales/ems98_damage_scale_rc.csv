@@ -1,0 +1,6 @@
+﻿Grade,Label,Description
+1,Negligible to slight damage (no structural damage; slight non-structural damage),Fine cracks in plaster over frame members or in walls at the base. Fine cracks in partitions and infills.
+2,Moderate damage (slight structural damage; moderate non-structural damage),Cracks in columns and beams of frames and in structural walls. Cracks in partition and infill walls; fall of brittle cladding and plaster. Falling mortar from the joints of wall panels.
+3,Substantial to heavy damage (moderate structural damage; heavy non-structural damage),"Cracks in columns and beam column joints of frames at the base and at joints of coupled walls. Spalling of conrete cover, buckling of reinforced rods. Large cracks in partition and infill walls, failure of individual infill panels."
+4,Very heavy damage (heavy structural damage; very heavy non-structural damage),Large cracks in structural elements with compression failure of concrete and fracture of rebars; bond failure of beam reinforced bars; tilting of columns. Collapse of a few columns or of a single upper floor.
+5,Destruction (very heavy structural damage),Collapse of ground floor or parts (e. g. wings) of buildings.
