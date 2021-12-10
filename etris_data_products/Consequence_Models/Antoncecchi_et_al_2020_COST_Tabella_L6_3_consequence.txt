@@ -1,0 +1,6 @@
+Damage level,Reconstruction cost (percentage)
+D1,10
+D2,30
+D3,60
+D4,100
+D5,100
