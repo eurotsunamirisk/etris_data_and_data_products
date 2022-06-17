@@ -20,3 +20,4 @@ Reese_et_al_20211_damage_scale.csv,Reese et al. 2011,https://doi.org/10.1016/j.e
 ems98_damage_scale_masonry.csv,Grünthal 1998,https://doi.org/10.2312/EMS-98.full.en,Damage scale,European Macroseismic Scale 1998 EMS-98,Damage scale for masonry buildings (p. 15).,-
 ems98_damage_scale_rc.csv,Grünthal 1998,https://doi.org/10.2312/EMS-98.full.en,Damage scale,European Macroseismic Scale 1998 EMS-98,Damage scale for reinforced concrete buildings (p. 16).,-
 De_Risi_et_al_2017b_modified_MLIT_damage_scale.csv,De Risi et al. 2017b,http://dx.doi.org/10.1016/j.earscirev.2016.12.015,Damage scale,Fused DS6 and DS7 of the MLIT damage scale into a single DS6&7,Described in Section 3.1 (p. 1257-1258) of De Risi et al. 2017a.,-
+Paulik_et_al_2019_Table_1.csv,Paulik et al. 2019,https://doi.org/10.1007/s00024-019-02254-9,Damage scale,Scale for damage after the 2018 Sulawesi earthquake (Mw 7.5) and tsunami,The damagage scale is presented in Table 1 of Paulik et al. 2019.,
