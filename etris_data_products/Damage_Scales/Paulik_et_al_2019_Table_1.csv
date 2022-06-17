@@ -1,5 +1,5 @@
 ﻿Damage level (DL),Description,Type of sctructure,Comments
 DL0,No damage,Building; Road; Utility,
-DL1,Partial damage_ repairable,Building; Road; Utility,Comma replaced by semicolon in the field Description
-DL2,Partial damage_ unrepairable,Building; Road; Utility,Comma replaced by semicolon in the field Description
+DL1,Partial damage; repairable,Building; Road; Utility,Comma replaced by semicolon in the field Description
+DL2,Partial damage; unrepairable,Building; Road; Utility,Comma replaced by semicolon in the field Description
 DL3,Complete damage,Building; Road; Utility,
