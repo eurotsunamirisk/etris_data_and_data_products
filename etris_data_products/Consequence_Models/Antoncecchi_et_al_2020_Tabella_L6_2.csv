@@ -1,0 +1,6 @@
+﻿Damage_level_(EMS_scale),Description,Victims(%),Casualties(%)
+D1,Negligible to moderate damage,0,0
+D2,Moderate damage,0,0
+D3,Moderate to heavy damage,0,0
+D4,Severe damage,1,5
+D5,Collapse,10,30
