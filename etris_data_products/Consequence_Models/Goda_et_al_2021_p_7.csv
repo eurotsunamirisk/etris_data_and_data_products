@@ -1,6 +1,6 @@
 ﻿Tsunami_damage_state,Damage_ratio_min,Damage_ratio_max
-Minor,0.03,0.1
-Moderate,0.1,0.3
-Major,0.3,0.5
-Complete,0.5,1
-Collapse,1,1
+DS1_Minor,0.03,0.1
+DS2_Moderate,0.1,0.3
+DS3_Major,0.3,0.5
+DS4_Complete,0.5,1
+DS5_Collapse,1,1
