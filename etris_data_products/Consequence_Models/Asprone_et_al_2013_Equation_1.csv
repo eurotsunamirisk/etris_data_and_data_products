@@ -1,0 +1,6 @@
+﻿Equation,RC(LS)=(i/n)^a * RC_{final}
+RC,Repair Cost
+LS,Limit state
+i,Intermediate limit state
+a,Parameter to be calibrated
+RC_{final},Reconstruction cost
