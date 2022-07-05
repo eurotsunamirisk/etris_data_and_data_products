@@ -1,0 +1,7 @@
+﻿Damage state,Definition,Structural and non-structural damage,Assumption A; DI^a range to be considered; Range minimum,Assumption A; DI^a range to be considered; Range maximum,Comments
+0,No damage,-,0,0,-
+1,Slight damage,No SD slight N-SD,0,10,Range minimum is > 0
+2,Moderate damage,Slight SD moderate N-SD,10,30,-
+3,Substantial to heavy damage,Moderate SD heavy N-SD,30,60,-
+4,Very heavy damage,Heavy SD very heavy N-SD,60,100,-
+5,Destruction,Very heavy SD,100,100,-
