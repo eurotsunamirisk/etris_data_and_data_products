@@ -1,4 +1,4 @@
-﻿Filename,Reference,DOI,Information,Comments,Corresponding damage scale
+Filename,Reference,DOI,Information,Comments,Corresponding damage scale
 Bayesian Model Class Selection_Brick masonry residential_South Pacific Tsunami 2009.csv,Jalayer et al. 2022,https://doi.org/10.5194/egusphere-2022-206,Fragility curves computed using data from the 2009 South Pacific Tsunami,Building type labels as in the publication.,Reese_et_al_20211_damage_scale.csv
 "Bayesian Model Class Selection_Masonry, unknown, 1 storey_Sulawesi Tsunami 2018.csv",Jalayer et al. 2022,https://doi.org/10.5194/egusphere-2022-206,Fragility curves computed using data from the Sulawesi 2018 Tsunami,Building type labels as in the publication.,Paulik_et_al_2019_Table_1.csv
 Bayesian Model Class Selection_Non engineered light timber__Sulawesi Tsunami 2018.csv,Jalayer et al. 2022,https://doi.org/10.5194/egusphere-2022-206,Fragility curves computed using data from the Sulawesi 2018 Tsunami,Building type labels as in the publication.,Paulik_et_al_2019_Table_1.csv
@@ -12,6 +12,12 @@ Brick masonry residential_South Pacific Tsunami 2009_M2.csv,Jalayer et al. 2022,
 Brick masonry residential_South Pacific Tsunami 2009_M2.xlsx,Jalayer et al. 2022,https://doi.org/10.5194/egusphere-2022-206,Fragility curves computed using data from the 2009 South Pacific Tsunami,Building type labels as in the publication.,Reese_et_al_20211_damage_scale.csv
 Brick masonry residential_South Pacific Tsunami 2009_M3.csv,Jalayer et al. 2022,https://doi.org/10.5194/egusphere-2022-206,Fragility curves computed using data from the 2009 South Pacific Tsunami,Building type labels as in the publication.,Reese_et_al_20211_damage_scale.csv
 Brick masonry residential_South Pacific Tsunami 2009_M3.xlsx,Jalayer et al. 2022,https://doi.org/10.5194/egusphere-2022-206,Fragility curves computed using data from the 2009 South Pacific Tsunami,Building type labels as in the publication.,Reese_et_al_20211_damage_scale.csv
+Chilean Tsunami 2010_M1.csv,,,,,
+Chilean Tsunami 2010_M1.xlsx,,,,,
+Chilean Tsunami 2010_M2.csv,,,,,
+Chilean Tsunami 2010_M2.xlsx,,,,,
+Chilean Tsunami 2010_M3.csv,,,,,
+Chilean Tsunami 2010_M3.xlsx,,,,,
 fragilityCurves_De_Risi_et_al_2017a_with_input_data_error_binomial_logistic_continuous.csv,De Risi et al. 2017a,https://doi.org/10.1007/s00477-016-1230-x,Fragility curves computed using tsunami damage data for the 2011 Tohoku earthquake,Fragility curve parameters in Table 4 in De Risi et al. 2017a. The GED4ALL labels for the building types in the publication were selected.,De_Risi_et_al_2017b_modified_MLIT_damage_scale.csv
 fragilityCurves_De_Risi_et_al_2017a_with_input_data_error_binomial_logistic_continuous.xml,De Risi et al. 2017a,https://doi.org/10.1007/s00477-016-1230-x,Fragility curves computed using tsunami damage data for the 2011 Tohoku earthquake,Fragility curve parameters in Table 4 in De Risi et al. 2017a. The GED4ALL labels for the building types in the publication were selected.,De_Risi_et_al_2017b_modified_MLIT_damage_scale.csv
 fragilityCurves_De_Risi_et_al_2017a_with_input_data_error_lognormal_continuous.csv,De Risi et al. 2017a,https://doi.org/10.1007/s00477-016-1230-x,Fragility curves computed using tsunami damage data for the 2011 Tohoku earthquake,Fragility curve parameters in Table 4 in De Risi et al. 2017a. The GED4ALL labels for the building types in the publication were selected.,De_Risi_et_al_2017b_modified_MLIT_damage_scale.csv
