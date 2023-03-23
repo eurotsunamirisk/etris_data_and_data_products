@@ -1,6 +1,9 @@
-ETRiS_developed,Event,Latitude,Longitude,Damage_Scale,Modelling,Download_Links
-Yes,Chilean Tsunami 2010,-72.733,-35.909,NA,Using logit/probit/cloglog link functions,https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_products/Fragility_Curves/
-Yes,South Pacific Tsunami 2009,-13.84399339,-171.7580738,6 Tier/Reese 2011,Using logit/probit/cloglog link functions,https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_products/Fragility_Curves/
-Yes,Sulawesi Tsunami (Palu) 2018,-0.892910841,119.8563315,4 Tier/Peiris 2006,Using logit/probit/cloglog link functions,https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_products/Fragility_Curves/
-Yes,Tohoku Earthquake and Tsunami 2011,38.21518395,140.9755873,De Risi et al. 2017,Using logit/probit/cloglog link functions,https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_products/Fragility_Curves/
-Yes,Lisbon 1775 Tsunami,38.69578003,-9.218431176,NA,Using logit/probit/cloglog link functions,https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_products/Fragility_Curves/
+ETRiS_developed,Event,Latitude,Longitude,Damage_Scale,Modelling,Comments,Download_Links
+Yes,Chilean Tsunami 2010,-35.909,-72.733,NA,Using logit/probit/cloglog link functions,NA,https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_products/Fragility_Curves/
+Yes,South Pacific Tsunami 2009,-13.84399339,-171.7580738,6 Tier/Reese 2011,Using logit/probit/cloglog link functions,NA,https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_products/Fragility_Curves/
+Yes,Sulawesi Tsunami (Palu) 2018,-0.892910841,119.8563315,4 Tier/Peiris 2006,Using logit/probit/cloglog link functions,NA,https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_products/Fragility_Curves/
+Yes,Tohoku Earthquake and Tsunami 2011,38.21518395,140.9755873,De Risi et al. 2017,Using logit/probit/cloglog link functions,NA,https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_products/Fragility_Curves/
+Yes,Lisbon 1775 Tsunami,38.69578003,-9.218431176,NA,Using logit/probit/cloglog link functions,NA,https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_products/Fragility_Curves/
+Yes,Lisbon 1775 Tsunami,38.69578003,-9.218431176,NA,Using logit/probit/cloglog link functions,Model 1,https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_products/Vulnerability_Curves/Lisbon%20Tsunami%201775_M1.csv
+Yes,Lisbon 1775 Tsunami,38.69917357,-9.174805378,NA,Using logit/probit/cloglog link functions,Model 2,https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_products/Vulnerability_Curves/Lisbon%20Tsunami%201775_M2.csv
+Yes,Lisbon 1775 Tsunami,38.70785004,-9.134176457,NA,Using logit/probit/cloglog link functions,Model 3,https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_products/Vulnerability_Curves/Lisbon%20Tsunami%201775_M3.csv
