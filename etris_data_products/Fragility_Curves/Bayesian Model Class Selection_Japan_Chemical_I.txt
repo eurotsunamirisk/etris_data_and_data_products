@@ -1,0 +1,3 @@
+------ The posterior probability of Model Class 1 is 0.354
+------ The posterior probability of Model Class 2 is 0.186
+------ The posterior probability of Model Class 3 is 0.459
