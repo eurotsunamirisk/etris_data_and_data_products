@@ -1,0 +1,3 @@
+------ The posterior probability of Model Class 1 is NaN
+------ The posterior probability of Model Class 2 is NaN
+------ The posterior probability of Model Class 3 is NaN
