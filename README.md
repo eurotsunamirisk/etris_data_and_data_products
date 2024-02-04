@@ -2,7 +2,7 @@
 
 ## Datasets for tsunami impact and consequence:
 The **tsunami dataset** in ETRiS provides access to datasets of tsunami intensity measures (IM), damage (DM), and fatalities (DV) collected from past tsunami events. These datasets are already published in the literature.
-Check [this link](https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_table.xlsx) to appropriately cite them.
+Use [this link](https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_table.xlsx) to appropriately cite them.
 
 ## Data Products for Tsunami Risk Assessment:
 The **tsunami data product** in ETRiS provides access to various PTRA components, including damage scales, fragility curves, consequence functions, vulnerability curves, and loss curves. The detailed version of data products, including all available data products, can be found at: [this link](https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_prodcuts_table.xlsx)
