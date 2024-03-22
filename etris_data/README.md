@@ -1,7 +1,7 @@
 ## Datasets for tsunami impact and consequence:
 The **tsunami dataset** in ETRiS provides access to datasets of tsunami intensity measures (IM), damage (DM), and fatalities (DV) collected from past tsunami events. These datasets are already published in the literature.
 
-<br>Each .csv or .xlsx file in the repository, mentioned in the "Event" column, contains different data specified in the "Data" column.
+<br>Each .csv file in the repository, mentioned in the "Event" column, contains different data specified in the "Data" column.
 
 | Event              | Country  | Reference                     | Data                      | N data |
 |------------------- |----------|-------------------------------|---------------------------|--------|
