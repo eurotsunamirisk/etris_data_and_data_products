@@ -1,4 +1,4 @@
-## Datasets for tsunami impact and consequence:
+## Consequence Models:
 The **Consequence Models** in ETRiS provides access to the conditional probability distribution (e.g., mean, and standard deviation) of a decision variable DV (e.g., fatalities, economic loss) for prescribed damage states. 
 
 <br>**Each .csv file in the repository, contains risk metric as follows.**
