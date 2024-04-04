@@ -3,7 +3,7 @@
 
 ## Guide to accessing the empirical fragility data products:
 To access the empirical fragility data for a specified Tsunami event, follow these steps:<br> 
-The fragility data are stored in files named according to the following convention: **Building Class_Tsunami Name_Mk**. 
+The fragility data are stored in files named according to the following convention: **Event** **Building Class_Tsunami Name_Mk**. 
    - The term Mk defines the fragility model, where:
      - *k=1 (M1)* denotes the fragility model using a **"logit"** link function.
      - *k=2 (M2)* defines the fragility model using a **"probit"** link function.
