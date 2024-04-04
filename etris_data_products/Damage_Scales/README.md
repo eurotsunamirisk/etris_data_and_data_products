@@ -1,7 +1,7 @@
 ## Damage Scales:
-The **Consequence Models** in ETRiS provides access to the conditional probability distribution (e.g., mean, and standard deviation) of a decision variable DV (e.g., fatalities, economic loss) for prescribed damage states. 
+The **Damage Scales** in ETRiS is the ensemble of mutually exclusive and collectively exhaustive damage states (DSi) used to describe the whole range of possibilities of damage for an exposed asset (Buildings or other structure). Damage levels Dj are the thresholds that separate the different damage states (DSi). 
 
-<br>**Each .csv file in the repository, contains risk metric as follows.**
+<br>**Each .csv file in the repository, contains one damage scale.**
 
 | NAME            | Referenec | N of Damage levels                     |
 |------------------- |----------|-------------------------------|
