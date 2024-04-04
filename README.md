@@ -1,7 +1,7 @@
 # ETRiS data and data products
 
 ## Datasets for tsunami impact and consequence:
-##**<a href="https://github.com/eurotsunamirisk/etris_data_and_data_products/tree/main/etris_data" target="_blank">etris_data</a> folder**
+## **<a href="https://github.com/eurotsunamirisk/etris_data_and_data_products/tree/main/etris_data" target="_blank">etris_data</a> folder**
 <br>
 The **tsunami dataset** in ETRiS provides access to datasets of tsunami intensity measures (IM), damage (DM), and fatalities (DV) collected from past tsunami events. These datasets are already published in the literature.
 Use [this link](https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_table.xlsx) to appropriately cite them.
