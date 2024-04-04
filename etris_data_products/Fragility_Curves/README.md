@@ -1,9 +1,14 @@
 ## Fragility Curves
 **Fragility curves** depict the probability of exceeding a given damage level (DSj) given a certain Intensity Measure (IM). The fragility curve folder contains various fragilities, available in [this table](https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_products/fragility_curves_table.csv), with formats specified in [this document](https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_products/Fragility_Curves/ReadMe%20file%20for%20fragility%20data.pdf). Additionally, Bayesian Model Class Selection for certain datasets is underway, indicating the posterior probability associated with each Model Class.
 
-## Guide to accessing the empirical fragility data results:
+## Guide to accessing the empirical fragility data products:
 To access the empirical fragility data for a specified Tsunami event, follow these steps:<br> 
-i) The fragility data are stored in files, each named as follows: **Event**_**Building Class_Tsunami**_**Name_Mk.** The term Mk defines the fragility model, where *k=1* *(M1)* denotes the fragility model using **"logit"** link function, *k=2* *(M2)* defines the fragility model using **"probit"** link function, and *k=3* *(M3)* is for the fragility model using **"cloglog"** link function. These data is available in easy-to-use formats such as .csv and .xlsx.
+The fragility data are stored in files named according to the following convention: **Building Class_Tsunami Name_Mk**. 
+   - The term Mk defines the fragility model, where:
+     - *k=1 (M1)* denotes the fragility model using a **"logit"** link function.
+     - *k=2 (M2)* defines the fragility model using a **"probit"** link function.
+     - *k=3 (M3)* is for the fragility model using a **"cloglog"** link function.
+These data is available in easy-to-use formats such as .csv and .xlsx.
 <br> For each damage level defined as D<sub>i</sub> (″i″ defines the number of damage level), seven columns of data are provided, and this module will be repeated based on the number of damage levels. Each module contains the following columns, which are also shown schematically in the following figure 
 <br>
 <br> •	**flow depth [m]:** the tsunami fragility curve employs the tsunami flow depth in meters as the measure of intensity.
