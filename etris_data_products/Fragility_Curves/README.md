@@ -8,9 +8,10 @@ The fragility data are stored in files named according to the following conventi
      - *k=1 (M1)* denotes the fragility model using a **"logit"** link function.
      - *k=2 (M2)* defines the fragility model using a **"probit"** link function.
      - *k=3 (M3)* is for the fragility model using a **"cloglog"** link function.
-These data is available in easy-to-use formats such as .csv and .xlsx.
-<br> For each damage level defined as D<sub>i</sub> (″i″ defines the number of damage level), seven columns of data are provided, and this module will be repeated based on the number of damage levels. Each module contains the following columns, which are also shown schematically in the following figure 
-<br>
+<br> These data is available in easy-to-use formats such as .csv and .xlsx.
+
+<br> For each damage level defined as D<sub>i</sub> (″i″ defines the number of damage level), seven columns of data are provided, and this module will be repeated based on the number of damage levels. Each module contains the following columns, which are also shown schematically in the following figure: 
+
 <br> •	**flow depth [m]:** the tsunami fragility curve employs the tsunami flow depth in meters as the measure of intensity.
 <br> •	**mean-1sigma fragility:** the expected value of the fragility over the vector of fragility parameters for a given intensity minus 1 standard deviation (the lower confidence interval of the fragility)
 <br> •	**mean fragility:** the expected value of the fragility over the vector of fragility parameters for a given intensity 
