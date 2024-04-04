@@ -1,6 +1,6 @@
 # ETRiS data and data products
 
-<div style="text-align: left;">
+<div style="text-align: justify;">
 
 ## **[etris_data](https://github.com/eurotsunamirisk/etris_data_and_data_products/tree/main/etris_data)** folder
 **Datasets for tsunami impact and consequence:**
@@ -10,7 +10,7 @@ Use [this link](https://github.com/eurotsunamirisk/etris_data_and_data_products/
 
 </div>
 
-<div style="text-align: left;">
+<div style="text-align: justify;">
 
 ## **[etris_data_products](https://github.com/eurotsunamirisk/etris_data_and_data_products/tree/main/etris_data_products)** folder:
 **Data Products for Tsunami Risk Assessment:**
