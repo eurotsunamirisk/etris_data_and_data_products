@@ -1,7 +1,7 @@
 # Data Products for Tsunami Risk Assessment
 
 **The tsunami data product in ETRiS (Earthquake and Tsunami Risk Information System) provides access to various PTRA (Probabilistic Tsunami Risk Assessment) components crucial for assessing tsunami risks.**
-These components include **damage scales**, **fragility curves**, **consequence functions**, **vulnerability curves**, and **loss curves**.
+These components include *damage scales*, *fragility curves*, *consequence functions*, *vulnerability curves*, and *loss curves*.
 
 Each folder in this repository is associated with one of the PTRA components mentioned above.
 
