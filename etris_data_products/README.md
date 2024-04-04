@@ -1,12 +1,20 @@
-# Data Products for Tsunami Risk Assessment:
-<br>
-## The **tsunami data product** in ETRiS provides access to various PTRA components, including **damage scales**, **fragility curves**, **consequence functions**, **vulnerability curves**, and **loss curves**.
+# Data Products for Tsunami Risk Assessment
 
-#### <br>Each folder in this repository is associated with one of the PTRA components mentioned above.
+The **tsunami data product** in ETRiS (Earthquake and Tsunami Risk Information System) provides access to various PTRA (Probabilistic Tsunami Risk Assessment) components crucial for assessing tsunami risks. These components include **damage scales**, **fragility curves**, **consequence functions**, **vulnerability curves**, and **loss curves**.
 
-<br>**Damage scales** The ensemble of mutually exclusive and collectively exhaustive damage states (DSi) to describe the whole range of possibilities of damage for an exposed asset (Buildings or other structure). <br>- The damage scale folder includes 5 different damage scales with description found in litrature.
-<br><br>**Fragility curves** The probability of exceeding a given damage level (DSj) given a certain Intensity Measure (IM). <br>- The fragility curve folder contain the different fragilities mentioned at: [this link](https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_products/fragility_curves_table.csv) with the format mentioned at: [this link](https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_products/Fragility_Curves/ReadMe%20file%20for%20fragility%20data.pdf). Additionally, there is Bayesian Model Class Selection for certain datasets (still in progress), indicating the posterior probability associated with each Model Class. 
-<br><br>**Consequence functions** The conditional probability distribution (e.g., mean, and standard deviation) of a decision variable DV (e.g., fatalities, economic loss) for prescribed damage states. <br>- The Consequence functions folder includes 6 different  Consequence functions with description found in litrature.
-<br><br>**Vulnerability curves** The conditional probability distribution (e.g., mean and standard deviation) of a decision variable DV (e.g., fatalities, economic loss) as a function of the intensity measure IM. <br>- The Vulnerability curve folder contain the different fragilities mentioned at: [this link](https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_products/Vulnerability_curves_table.csv) with the format mentioned at: [this link](https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_products/Fragility_Curves/ReadMe%20file%20for%20Vulnerability%20data.pdf). 
-<br><br>**Loss curves** The mean annual rate of exceeding specific thresholds dv for the decision variable DV. <br>- (still in progress)
+Each folder in this repository is associated with one of the PTRA components mentioned above.
 
+## Damage Scales
+The damage scales represent an ensemble of mutually exclusive and collectively exhaustive damage states (DSi) describing the full range of possible damage for exposed assets such as buildings or other structures. The damage scale folder includes descriptions of five different damage scales found in literature.
+
+## Fragility Curves
+Fragility curves depict the probability of exceeding a given damage level (DSj) given a certain Intensity Measure (IM). The fragility curve folder contains various fragilities, available in [this table](https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_products/fragility_curves_table.csv), with formats specified in [this document](https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_products/Fragility_Curves/ReadMe%20file%20for%20fragility%20data.pdf). Additionally, Bayesian Model Class Selection for certain datasets is underway, indicating the posterior probability associated with each Model Class.
+
+## Consequence Functions
+Consequence functions provide the conditional probability distribution (e.g., mean and standard deviation) of a decision variable (DV), such as fatalities or economic loss, for prescribed damage states. The Consequence functions folder includes descriptions of six different functions found in literature.
+
+## Vulnerability Curves
+Vulnerability curves offer the conditional probability distribution (e.g., mean and standard deviation) of a decision variable (DV) as a function of the intensity measure (IM). The Vulnerability curve folder contains various fragilities, available in [this table](https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_products/Vulnerability_curves_table.csv), with formats specified in [this document](https://github.com/eurotsunamirisk/etris_data_and_data_products/blob/main/etris_data_products/Fragility_Curves/ReadMe%20file%20for%20Vulnerability%20data.pdf).
+
+## Loss Curves
+Loss curves represent the mean annual rate of exceeding specific thresholds for the decision variable (DV). This section is currently in progress.
